@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Movie Manager</string>
     <string name="title_freetowatch">Free To Watch</string>
+    <string name="title_tranding">Trending Section</string>
 </resources>

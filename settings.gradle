@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Movie Manager"
 include ':app'
 include ':app:core'
+include ':app:trending'
